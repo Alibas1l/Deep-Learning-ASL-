@@ -1,0 +1,7 @@
+# Core runtime
+tensorflow>=2.9,<3.0
+opencv-python>=4.7.0
+numpy>=1.23.0
+
+# If you prefer CPU-only TF on Linux, you can install:
+# tensorflow-cpu>=2.9,<3.0
